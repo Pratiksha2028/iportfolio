@@ -1,9 +1,9 @@
-PORTFOLIO WEBSITE:
+#PORTFOLIO WEBSITE:
      This is my personal portfolio website.
      Technologies : HTML,CSS,Javascript,Bootstrap and PHP.
      I make my website Responsive.
      In my portfolio Website, I tell about me , my education , my skills , my projects and my certifications.
-HOME PAGE:
+##HOME PAGE:
     In home page , there is a navbar and options. 
     It contain all my social media links.
 ABOUT PAGE:
